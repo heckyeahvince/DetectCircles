@@ -1,7 +1,5 @@
 # Detect Circles OpenCV
 
-detectcircles-melvincabatuan created by Classroom for GitHub 
-
 ## Warning
 
  Note the Gradle plugin is at the experimental stage. The Gradle API for the new component model is not final, which means it'll only work with a specific version of Gradle until the APIs are final.
@@ -174,27 +172,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/5416e23e59974c90da6580d1d980436a
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/detectcircles-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-"*Without requirements or design, programming is the art of adding bugs to an empty text file.*" - Louis Srygley
